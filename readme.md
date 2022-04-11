@@ -1,8 +1,11 @@
 # 2022 TCCoE Logika Presentation
 
-This repository holds the Sireum Presentasi source and pre-built binary of the 
-[2022 Trusted Computing Center of Excellence (TCCoE)](https://hopin.com/events/tccoe-2022-summit) talk on Logika,
-titled "Integrated Formal Verification Environment for seL4 Applications".
+This repository holds the [Sireum](https://github.com/sireum/kekinian) [Presentasi](https://github.com/sireum/presentasi-example)
+source and pre-built binary of the 
+[2022 Trusted Computing Center of Excellence (TCCoE)](https://hopin.com/events/tccoe-2022-summit)
+talk on Logika, titled "Integrated Formal Verification Environment for seL4 Applications".
+
+The Presentasi script is [bin/presentasi.cmd](bin/presentasi.cmd); it is configured for Microsoft Azure's text-to-speech synthesizer with "Ryan" neural voice.
 
 
 ## How To Watch The Presentation
