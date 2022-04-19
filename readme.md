@@ -37,4 +37,4 @@ java -jar tccoe22-logika.jar
 
 Finally, a pre-recorded Presentasi video is also available at:
 
-https://github.com/sireum/tccoe22-logika/releases/download/final/tccoe22-logika.mp4
+https://bit.ly/tccoe22-logika
