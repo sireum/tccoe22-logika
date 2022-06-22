@@ -1490,4 +1490,4 @@ val presentation = Presentation.empty +
   conclusion +
   end
 
-presentation(delay = 800).cli(Os.cliArgs)
+presentation(delay = 800, textDelay = 800).cli(Os.cliArgs)
